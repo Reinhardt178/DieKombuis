@@ -63,7 +63,7 @@ namespace DieKombuis.API.Controllers
 
             var tokenDescriptor = new SecurityTokenDescriptor
             {
-                Subject = new ClaimsIdentity(claims),
+                Subject = new ClaimsIdentity(claims), 
                 Expires = DateTime.Now.AddDays(1),
                 SigningCredentials = creds
             };
