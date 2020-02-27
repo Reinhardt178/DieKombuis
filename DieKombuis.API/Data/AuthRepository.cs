@@ -70,6 +70,6 @@ namespace DieKombuis.API.Data
                 passwordHash = hmac.ComputeHash(System.Text.Encoding.UTF8.GetBytes(password));
             }
            
-    }
+        }
 }
 }

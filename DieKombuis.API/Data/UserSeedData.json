@@ -1,0 +1,102 @@
+[
+    {
+      "Username": "John",
+      "DateOfBirth": "1990-08-30",
+      "Password": "password",
+      "Name": "John",
+      "Surname": "Ellis",
+      "Email": "tishaellis@zentry.com",
+      "Created": "2017-07-22",
+      "LastActive": "2017-07-22",
+      "CellNr": "+1 (831) 573-3946",
+      "Kombuis": "pers",
+      "IsAdmin": true,
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/women/58.jpg",
+          "isMain": true,
+          "description": "Ad id do pariatur aute."
+        }
+      ]
+    },
+    {
+      "Username": "Bob",
+      "DateOfBirth": "1979-04-24",
+      "Password": "password",
+      "Name": "Bob",
+      "Surname": "Osborne",
+      "Email": "holdenosborne@zentry.com",
+      "Created": "2017-02-28",
+      "LastActive": "2017-02-28",
+      "CellNr": "+1 (912) 456-2885",
+      "Kombuis": "pers",
+      "IsAdmin": false,
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/women/27.jpg",
+          "isMain": true,
+          "description": "Cillum sint magna ullamco non magna."
+        }
+      ]
+    },
+    {
+      "Username": "Janelle",
+      "DateOfBirth": "1951-06-24",
+      "Password": "password",
+      "Name": "Jo",
+      "Surname": "Moreno",
+      "Email": "jomoreno@zentry.com",
+      "Created": "2017-04-29",
+      "LastActive": "2017-04-29",
+      "CellNr": "+1 (845) 506-2114",
+      "Kombuis": "blou",
+      "IsAdmin": false,
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/women/2.jpg",
+          "isMain": true,
+          "description": "Ea deserunt laborum et aliqua ad aliqua mollit et veniam consectetur eu laboris."
+        }
+      ]
+    },
+    {
+      "Username": "Betsy",
+      "DateOfBirth": "1977-08-07",
+      "Password": "password",
+      "Name": "Mindy",
+      "Surname": "Knight",
+      "Email": "mindyknight@zentry.com",
+      "Created": "2017-06-02",
+      "LastActive": "2017-06-02",
+      "CellNr": "+1 (902) 554-2675",
+      "Kombuis": "blou",
+      "IsAdmin": false,
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/women/62.jpg",
+          "isMain": true,
+          "description": "Duis labore dolor aliquip ex laboris aute sunt nisi occaecat laboris pariatur eu irure duis."
+        }
+      ]
+    },
+    {
+      "Username": "Beatrice",
+      "DateOfBirth": "1960-07-13",
+      "Password": "password",
+      "Name": "Atkinson",
+      "Surname": "Macias",
+      "Email": "atkinsonmacias@zentry.com",
+      "Created": "2017-03-19",
+      "LastActive": "2017-03-19",
+      "CellNr": "+1 (993) 595-2597",
+      "Kombuis": "pers",
+      "IsAdmin": false,
+      "Photos": [
+        {
+          "url": "https://randomuser.me/api/portraits/women/5.jpg",
+          "isMain": true,
+          "description": "Labore consectetur proident aliqua in aliqua ut do et culpa cillum voluptate elit."
+        }
+      ]
+    }
+  ]

@@ -1,15 +1,12 @@
 using System;
-using System.Collections.Generic;
 
-namespace DieKombuis.API.Models
+namespace DieKombuis.API.Dtos
 {
-    public class User
+    public class UserForListDto
     {
         public int Id { get; set; }
         public string Username { get; set; }
-        public byte[] PasswordHash { get; set; }
-        public byte[] PasswordSalt { get; set; }
-        public DateTime DateOfBirth { get; set; }
+        public int Age { get; set; }
         public string Email { get; set; }
         public string Name { get; set; }
         public string Surname { get; set; }
@@ -18,6 +15,6 @@ namespace DieKombuis.API.Models
         public DateTime LastActive { get; set; }
         public string Kombuis { get; set; }
         public bool IsAdmin { get; set; }
-        public ICollection<Photo> Photos { get; set; }
+        public string PhotoUrl { get; set; }
     }
 }
